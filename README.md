@@ -1,6 +1,9 @@
 # tictactoe
-run with  bash ./ttt.bash 
-options:
--c : run from saved file of prior games
--h : show help
+
+
+uruchomienie:
+bash ./ttt.bash 
+opcje:
+-c : uruchom z zapisem poprzednich gier
+-h : pomoc
 
